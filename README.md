@@ -1,4 +1,4 @@
-# Supermarket Database Project
+
 
 This project is a supermarket database created as part of my university coursework. The database is designed and implemented using Microsoft Access. It is meant to simulate the data management system of a typical supermarket, tracking information like product inventory, sales, bills, employees, supplier details, and customer purchases 
 
