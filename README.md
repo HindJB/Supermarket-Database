@@ -33,6 +33,16 @@ After designing the schema, I created some sample data records in each table to 
 
 The completed database allows storing all required supermarket information. Queries and forms were created to retrieve and manipulate data easily.
 
+
+## Technologies and Tools Used
+
+- Microsoft Access: Utilized the powerful features of Access to create tables, queries, forms, and reports.
+- SQL: Wrote SQL queries to extract and manipulate data within the database.
+- User Interface Design: Employed principles of user-centered design to create intuitive and visually appealing forms
+
+
+
+
 ## Conclusion
 
 This project gave me good practice designing and implementing a relational database from scratch using Microsoft Access. I got experience mapping requirements to an initial data model, and then implementing the physical database effectively.
@@ -46,7 +56,4 @@ This project gave me good practice designing and implementing a relational datab
 3. Navigate through the different tables to view and manage the data.
 
 
-## Acknowledgements
-
-I would like to thank my professor DR. Sara Alsager for their valuable feedback and support throughout this project.
 
