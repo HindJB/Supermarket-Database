@@ -1,5 +1,4 @@
-<img width="461" alt="image" src="https://github.com/HindJB/Supermarket-Database/assets/129400242/67a10652-5769-4652-9c00-3a27f7c48f26">
-<img width="549" alt="image" src="https://github.com/HindJB/Supermarket-Database/assets/129400242/ccc649e6-c8ba-480a-a04e-8901087ade65">
+<img width="461" alt="image" src="https://github.com/HindJB/Supermarket-Database/assets/129400242/67a10652-5769-4652-9c00-3a27f7c48f26"> <img width="549" alt="image" src="https://github.com/HindJB/Supermarket-Database/assets/129400242/ccc649e6-c8ba-480a-a04e-8901087ade65">
 
 
 This project is a supermarket database created as part of my university coursework. The database is designed and implemented using Microsoft Access. It is meant to simulate the data management system of a typical supermarket, tracking information like product inventory, sales, bills, employees, supplier details, and customer purchases 
