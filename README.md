@@ -16,11 +16,11 @@ The main tables I designed were:
 
 - Users - stores login info like username, password, fullname.
 - Customers - stores customer data like name, contact info, etc.
-- Employee - stores employee data such as id, name, contact info, etc.
+- Purchases Bill - tores info about customer orders
+- Sales Bill - stores bill info like bill id, type, date, discount, etc
 - Products - stores product info like name, category, price, etc.
-- Orders - stores info about customer orders.
-- OrderItems - stores individual items in each order.
-- Bills - stores bill info like bill id, type, date, discount, etc.
+- Stocks in warehouse - stores individual items in each order.
+
 
 ## Implementation
 
